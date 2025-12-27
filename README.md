@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Alican.</h1>
-<h3 align="center">Full Stack Developer | Building Modern Web Experiences</h3>
+<h3 align="center">Jr. Full Stack Developer | Building Modern Web Experiences</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vlicvn&label=Profile%20views&color=0e75b6&style=flat-square" alt="vlicvn" />
@@ -32,11 +32,6 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vlicvn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlicvn&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vlicvn&theme=tokyonight" alt="vlicvn streak" />
 </p>
